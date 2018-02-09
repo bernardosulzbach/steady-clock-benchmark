@@ -6,5 +6,7 @@ You can test it yourself with the provided C++ file.
 
 ## My Results
 
-Windows 10: 17 nanoseconds.
-Linux 4.15: 40 nanoseconds.
+|Platform  |Mean          |
+|----------|--------------|
+|Windows 10|17 nanoseconds|
+|Linux 4.15|40 nanoseconds|
